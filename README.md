@@ -19,3 +19,4 @@ Les prérequis à installer :
 JDK 8
 Distribution Spark et contenu du Hands-on Lab
 
+ajout d'une modif de Gaspard
